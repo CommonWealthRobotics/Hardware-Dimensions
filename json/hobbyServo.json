@@ -48,8 +48,8 @@
   },
   "mg92b": {
     "MaxTorqueNewtonmeters": 0.343,
-    "shaftToShortSideDistance": 6.8,
     "outputShaftDiameter": 4.4,
+    "shaftToShortSideDistance": 6.8,
     "bottomOfFlangeToTopOfBody": 9.4,
     "tipOfShaftToBottomOfFlange": 13.9,
     "massCentroidY": 0.0,
