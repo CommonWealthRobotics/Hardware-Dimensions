@@ -55,20 +55,6 @@
     "massKg": 0.001,
     "keyDepth": 2.5
   },
-  "M4": {
-    "outerDiameter": 4.0,
-    "keySize": 3.0,
-    "headDiameter": 7.0,
-    "massCentroidY": 0.0,
-    "massCentroidX": 0.0,
-    "source": "https://commonwealthrobotics.com",
-    "massCentroidZ": 0.0,
-    "headHeight": 4.0,
-    "boltLength": 16.0,
-    "price": 0.01,
-    "massKg": 0.001,
-    "keyDepth": 2.0
-  },
   "M5x12": {
     "outerDiameter": 5.0,
     "keySize": 4.0,
@@ -82,6 +68,20 @@
     "price": 0.01,
     "massKg": 0.001,
     "keyDepth": 2.5
+  },
+  "M4": {
+    "outerDiameter": 4.0,
+    "keySize": 3.0,
+    "headDiameter": 7.0,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
+    "headHeight": 4.0,
+    "boltLength": 16.0,
+    "price": 0.01,
+    "massKg": 0.001,
+    "keyDepth": 2.0
   },
   "M5": {
     "outerDiameter": 5.0,
@@ -218,7 +218,7 @@
     "source": "https://www.mcmaster.com/91290A120/",
     "massCentroidZ": 0.0,
     "headHeight": 1.7,
-    "boltLength": 25.0,
+    "boltLength": 16.0,
     "price": 0.01,
     "massKg": 0.001,
     "keyDepth": 1.3
