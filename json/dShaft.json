@@ -11,15 +11,15 @@
     "shaftDiameter": 3.0
   },
   "3_16th_inch": {
-    "shaftDSectionDiameter": 1.95,
+    "shaftDSectionDiameter": 5.3,
     "price": 0.01,
-    "length": 8.0,
+    "length": 12.0,
     "massCentroidY": 0.0,
     "massCentroidX": 0.0,
-    "source": "https://www.amazon.com/RF-500TB-18280-Electric-1-5V-5V-2700RPM-Diameter/dp/B09N2PPWCW",
-    "massCentroidZ": 5.0,
+    "source": "http://image.dfrobot.com/image/data/FIT0185/FIT0185_Dimension.PNG",
+    "massCentroidZ": 0.0,
     "massKg": 0.001,
-    "shaftDiameter": 2.0
+    "shaftDiameter": 8.0
   },
   "5mm": {
     "shaftDSectionDiameter": 4.34,
