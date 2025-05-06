@@ -13,6 +13,20 @@
     "massKg": 0.001,
     "keyDepth": 1.3
   },
+  "M3x35": {
+    "outerDiameter": 3.0,
+    "keySize": 2.0,
+    "headDiameter": 6.0,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "massCentroidZ": 0.0,
+    "source": "https://www.mcmaster.com/91294A134/",
+    "headHeight": 1.7,
+    "boltLength": 35.0,
+    "price": 0.01,
+    "massKg": 0.001,
+    "keyDepth": 1.3
+  },
   "M3x25": {
     "outerDiameter": 3.0,
     "keySize": 2.0,
