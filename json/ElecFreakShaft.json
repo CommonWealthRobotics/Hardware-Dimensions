@@ -1,0 +1,19 @@
+{
+  "40mm": {
+    "widthOfFin": 1.7,
+    "diameter": 4.7,
+    "price": 0.01,
+    "inset": 1.4,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "lengthOfShaft": 40.0,
+    "massCentroidZ": 0.0,
+    "source": "https://shop.elecfreaks.com/products/elecfreaks-micro-bit-32-in-1-wonder-building-kit-without-micro-bit-board",
+    "massKg": 0.001
+  },
+  "meta": {
+    "scriptGit": "https://github.com/madhephaestus/ElecFreakShaftCadGenerator.git",
+    "scriptFile": "ElecFreakShaft.groovy",
+    "shaft": "true"
+  }
+}
