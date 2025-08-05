@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "scriptGit": "https://github.com/madhephaestus/microbitCadGenerator.git",
+    "scriptFile": "microbit.groovy"
+  },
+  "elecfreak": {
+    "price": 41.09,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "massCentroidZ": 0.0,
+    "source": "https://shop.elecfreaks.com/products/elecfreaks-micro-bit-wukong-expansion-board-adapter",
+    "massKg": 0.041
+  }
+}
