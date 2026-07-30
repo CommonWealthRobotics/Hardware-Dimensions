@@ -1,7 +1,7 @@
 {
   "40mm": {
-    "widthOfFin": 1.7,
-    "diameter": 4.7,
+    "widthOfFin": 1.9,
+    "diameter": 4.85,
     "price": 0.01,
     "inset": 1.4,
     "massCentroidY": 0.0,
